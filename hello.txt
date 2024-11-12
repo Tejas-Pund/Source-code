@@ -5,6 +5,5 @@ git commit --- used to save our file in local repo
 git branch --- used to treat your repo as primary
 git remote add --- used to giva a location to our file
 git push --- used to push all our files to github
-hello git push check
 
 
